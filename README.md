@@ -17,8 +17,6 @@ $ yarn start
 # 访问http://localhost:3000/index#/ 出现如下图所示的页面，则项目初始化成功
 ```
 
-![image-20200129141928016](/Users/ziidu/Library/Application Support/typora-user-images/image-20200129141928016.png)
-
 ```shell
 # 清楚多余文件（夹）后的目录结构
 .
